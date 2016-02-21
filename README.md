@@ -4,92 +4,121 @@
 
 SVG and PNG 
 
-Angry
+
 ![Angry](png/wapuuji_angry.png)
+Angry
 
-Astonished
 ![Astonished](png/wapuuji_astonished.png)
+Astonished
 
-Blush
+
 ![Blush](png/wapuuji_blush.png)
+Blush
 
-Confounded
+
 ![Confounded](png/wapuuji_confounded.png)
+Confounded
 
+
+![Confused](png/wapuuji_confused.png)
 Confused
-![Confused(png/wapuuji_confused.png)
 
-Cry
+
 ![Cry](png/wapuuji_cry.png)
+Cry
 
-Disappointed
+
 ![Disappointed](png/wapuuji_disappointed.png)
+Disappointed
 
-Expressionless
+
 ![Expressionless](png/wapuuji_expressionless.png)
+Expressionless
 
-Grin
+
 ![Grin](png/wapuuji_grin.png)
+Grin
 
-Heart-Eyes
+
 ![Heart-Eyes](png/wapuuji_heart-eyes.png)
+Heart-Eyes
 
-Innocent
+
 ![Innocent](png/wapuuji_innocent.png)
+Innocent
 
-Joy
+
 ![Joy](png/wapuuji_joy.png)
+Joy
 
-Kiss
+
 ![Kiss](png/wapuuji_kiss.png)
+Kiss
 
-Laughing
+
 ![Laugning](png/wapuuji_laughing.png)
+Laughing
 
-Open Mouth
+
 ![Open Mouth](png/wapuuji_open-mouth.png)
+Open Mouth
 
-Scream
+
 ![Scream](png/wapuuji_scream.png)
+Scream
 
-Sleeping
+
 ![Sleeping](png/wapuuji_sleeping.png)
+Sleeping
 
-Smiley
+
 ![Smiley](png/wapuuji_smiley.png)
+Smiley
 
-Smiling-Eyes
+
 ![Smiling-Eyes](png/wapuuji_smiling-eyes.png)
+Smiling-Eyes
 
-Smiling
+
 ![Smiling](png/wapuuji_smiling.png)
+Smiling
 
-Smirk
+
 ![Smirk](png/wapuuji_smirk.png)
+Smirk
 
-Sob
+
 ![Sob](png/wapuuji_sob.png)
+Sob
 
-Stuck Out Tongue Wink
+
 ![Stuck Out Tongue Wink](png/wapuuji_stuck-out-tongue-wink.png)
+Stuck Out Tongue Wink
 
-Stuck Out Tongue
+
 ![Stuck Out Tongue](png/wapuuji_stuck-out-tongue.png)
+Stuck Out Tongue
 
-Sunglasses
+
 ![Sunglasses](png/wapuuji_sunglasses.png)
+Sunglasses
 
-Sweat Smile
+
 ![Sweat Smile](png/wapuuji_sweat-smile.png)
+Sweat Smile
 
-Unamused
+
 ![Unamused](png/wapuuji_unamused.png)
+Unamused
 
-Wapoo
+
 ![Wapoo](png/wapuuji_wapoo.png)
+Wapoo
 
-Winking
+
 ![Winking](png/wapuuji_winking.png)
+Winking
 
+
+![Yum](png/wapuuji_yum.png)
 Yum
-![Yum](png/wapuuji-_yum.png)
